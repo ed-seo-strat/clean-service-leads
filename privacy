@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy | CleanServiceLeads</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-900 leading-relaxed">
+
+    <main class="container mx-auto px-6 py-16 max-w-3xl">
+        <a href="index.html" class="text-blue-600 hover:underline mb-8 block">&larr; Back to Home</a>
+        
+        <h1 class="text-4xl font-bold mb-8">Privacy Policy</h1>
+        <p class="text-sm text-gray-500 mb-8">Last updated: May 29, 2026</p>
+
+        <div class="space-y-6 text-gray-700">
+            <section>
+                <h2 class="text-xl font-bold text-gray-900 mb-2">1. Information We Collect</h2>
+                <p>We collect your email address when you sign up to be a Founding Member. We use this information solely to communicate updates regarding the CleanServiceLeads tool and your account status.</p>
+            </section>
+
+            <section>
+                <h2 class="text-xl font-bold text-gray-900 mb-2">2. Data Usage</h2>
+                <p>Your email address is never sold, rented, or shared with third parties. We use it only for internal communications related to our services.</p>
+            </section>
+
+            <section>
+                <h2 class="text-xl font-bold text-gray-900 mb-2">3. Third-Party Services</h2>
+                <p>We use Formspree to process our contact and signup forms. By using our site, you acknowledge that the information you provide may be processed by Formspree in accordance with their privacy policy.</p>
+            </section>
+
+            <section>
+                <h2 class="text-xl font-bold text-gray-900 mb-2">4. Security</h2>
+                <p>We take reasonable precautions to protect the information you provide. However, no internet-based service can be 100% secure.</p>
+            </section>
+
+            <section>
+                <h2 class="text-xl font-bold text-gray-900 mb-2">5. Updates</h2>
+                <p>We may update this privacy policy from time to time. Any changes will be posted on this page.</p>
+            </section>
+        </div>
+
+        <div class="mt-12 border-t pt-8">
+            <p class="text-gray-600">If you have any questions, please contact us at <strong>support@cleanserviceleads.com</strong>.</p>
+        </div>
+    </main>
+
+</body>
+</html>
